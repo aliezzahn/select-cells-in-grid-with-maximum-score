@@ -1,0 +1,12 @@
+[package]
+name = "select-cells-in-grid-with-maximum-score"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ali Ezzahn <aliezzahn@gmail.com>"]
+description = "A Rust library to solve the problem of selecting cells in a grid to maximize the score."
+repository = "https://github.com/aliezzahn/select-cells-in-grid-with-maximum-score"
+license = "MIT"
+keywords = ["grid", "dynamic-programming", "optimization"]
+categories = ["algorithms"]
+
+[dependencies]
